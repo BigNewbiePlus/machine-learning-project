@@ -1,0 +1,40 @@
+epoch = 1.701, train perp. = 187.515, wps = 805, dw:norm() = 0.815, lr = 1.000, since beginning = 2 mins.
+
+epoch = 0.126, train perp. = 506.042, wps = 1459, dw:norm() = 1.407, lr = 1.000, since beginning = 0 mins.
+run valid perplexity: 178.9885305928
+epoch = 0.189, train perp. = 411.645, wps = 918, dw:norm() = 0.988, lr = 1.000, since beginning = 0 mins.
+epoch = 0.252, train perp. = 355.419, wps = 1014, dw:norm() = 1.030, lr = 1.000, since beginning = 0 mins.
+run valid perplexity: 163.6162117066
+epoch = 0.315, train perp. = 324.174, wps = 862, dw:norm() = 0.911, lr = 1.000, since beginning = 0 mins.
+epoch = 0.378, train perp. = 298.631, wps = 912, dw:norm() = 0.703, lr = 1.000, since beginning = 0 mins.
+run valid perplexity: 131.02245858746
+epoch = 0.441, train perp. = 281.794, wps = 803, dw:norm() = 0.700, lr = 1.000, since beginning = 1 mins.
+epoch = 0.504, train perp. = 269.270, wps = 852, dw:norm() = 0.676, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 145.80700674969
+epoch = 0.567, train perp. = 258.936, wps = 795, dw:norm() = 0.643, lr = 1.000, since beginning = 1 mins.
+epoch = 0.630, train perp. = 248.994, wps = 832, dw:norm() = 0.835, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 133.16996396093
+epoch = 0.693, train perp. = 241.243, wps = 773, dw:norm() = 0.618, lr = 1.000, since beginning = 1 mins.
+epoch = 0.756, train perp. = 237.131, wps = 806, dw:norm() = 0.712, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 117.85948159808
+epoch = 0.819, train perp. = 233.199, wps = 775, dw:norm() = 0.809, lr = 1.000, since beginning = 1 mins.
+epoch = 0.882, train perp. = 227.625, wps = 803, dw:norm() = 0.676, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 121.57951791584
+epoch = 0.945, train perp. = 222.182, wps = 777, dw:norm() = 0.650, lr = 1.000, since beginning = 1 mins.
+epoch = 1.008, train perp. = 218.308, wps = 802, dw:norm() = 0.585, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 114.77078857003
+epoch = 1.071, train perp. = 213.593, wps = 779, dw:norm() = 0.856, lr = 1.000, since beginning = 1 mins.
+epoch = 1.134, train perp. = 209.853, wps = 800, dw:norm() = 0.908, lr = 1.000, since beginning = 1 mins.
+run valid perplexity: 111.97780571265
+epoch = 1.197, train perp. = 207.938, wps = 781, dw:norm() = 0.601, lr = 1.000, since beginning = 2 mins.
+epoch = 1.260, train perp. = 204.419, wps = 800, dw:norm() = 0.742, lr = 1.000, since beginning = 2 mins.
+run valid perplexity: 123.41224351889
+epoch = 1.323, train perp. = 201.761, wps = 782, dw:norm() = 0.343, lr = 1.000, since beginning = 2 mins.
+epoch = 1.386, train perp. = 199.462, wps = 798, dw:norm() = 0.842, lr = 1.000, since beginning = 2 mins.
+run valid perplexity: 108.96979327413
+epoch = 1.449, train perp. = 197.314, wps = 782, dw:norm() = 0.715, lr = 1.000, since beginning = 2 mins.
+epoch = 1.512, train perp. = 194.941, wps = 798, dw:norm() = 0.684, lr = 1.000, since beginning = 2 mins.
+run valid perplexity: 123.39758994325
+epoch = 1.575, train perp. = 192.606, wps = 783, dw:norm() = 0.771, lr = 1.000, since beginning = 2 mins.
+epoch = 1.638, train perp. = 189.942, wps = 797, dw:norm() = 0.972, lr = 1.000, since beginning = 2 mins.
+run valid perplexity: 112.52565731824
